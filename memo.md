@@ -1,6 +1,7 @@
 # The shell
 - shebang: 쉘에게 어떤 인터프리터를 쓸 지 첫번째 줄에서 알려주는거
-  - #!/usr/local/bin/python 을 첫줄에 쓰면 python example.py이 아니라 ./example.py로 실행 할 수 있음 
+  - #!/usr/local/bin/python 을 첫줄에 쓰면 python example.py이 아니라 ./example.py로 실행 할 수 있음
+  - #!/usr/bin/env python [설명: 24:40](https://youtu.be/kgII-YWo3Zw) 
 # Shell Tools and Scripting
 - Desktop 에 있는 모든 파일 밑 폴더 특정 폴더에 넣기
   - Desktop:~$ mv $(ls | grep '[^shell]') shell
