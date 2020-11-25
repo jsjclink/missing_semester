@@ -11,7 +11,8 @@
     - *.sh ex) aaa.sh sbavav.sh zzzzz.sh ...
     - project? ex) project1 project2 ...
     - [globbing](https://mug896.github.io/bash-shell/exp_and_sub/filename_expansion.html)
-  - 정규표현식 공부좀..
+  - ~~정규표현식 공부좀..~~
+  - shellcheck : 
 
 # Editors(vim)
 
