@@ -13,6 +13,7 @@
     - [globbing](https://mug896.github.io/bash-shell/exp_and_sub/filename_expansion.html)
   - ~~정규표현식 공부좀..~~
   - shellcheck : 문법체크해줌
+  - tldr : man 이랑 비슷한데 example 까지 있음 very useful
 
 # Editors(vim)
 
