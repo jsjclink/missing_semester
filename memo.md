@@ -6,6 +6,7 @@
   - shell에서 기본적으로 사용하는건 와일드카드 문자(정규표현식과 혼동 x)
     - *.sh ex) aaa.sh sbavav.sh zzzzz.sh ...
     - project? ex) project1 project2 ...
+    - [globbing](https://mug896.github.io/bash-shell/exp_and_sub/filename_expansion.html)
   - 정규표현식 공부좀..
 
 # Editors(vim)
