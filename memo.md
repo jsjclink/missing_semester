@@ -16,6 +16,7 @@
   - tldr : man 이랑 비슷한데 example 까지 있음 very useful (too long didnt read)
   - find : 원하는 파일, 폴더 찾아줌 
     - find . -name "*.tmp" -exec rm {} \; *.tmp 찾아서 다 삭제
+  - fd : An alternative to find
   
 
 # Editors(vim)
