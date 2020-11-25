@@ -13,7 +13,10 @@
     - [globbing](https://mug896.github.io/bash-shell/exp_and_sub/filename_expansion.html)
   - ~~정규표현식 공부좀..~~
   - shellcheck : 문법체크해줌
-  - tldr : man 이랑 비슷한데 example 까지 있음 very useful
+  - tldr : man 이랑 비슷한데 example 까지 있음 very useful (too long didnt read)
+  - find : 원하는 파일, 폴더 찾아줌 
+    - find . -name "*.tmp" -exec rm {} \; *.tmp 찾아서 다 삭제
+  
 
 # Editors(vim)
 
@@ -30,3 +33,7 @@
 # Security and Cryptography
 
 # Potpourri
+
+# 그냥 링크들
+[shell sudo apt-get install password](https://twpower.github.io/165-how-to-use-sudo-password-in-shell-script)
+
