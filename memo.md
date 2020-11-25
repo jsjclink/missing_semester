@@ -4,6 +4,8 @@
   - shell이라는 폴더에 다 넣는거
   - $(안에 shell 명령어) 하면 명령어 결과 list로 나옴 *command substitution*
   - shell에서 기본적으로 사용하는건 와일드카드 문자(정규표현식과 혼동 x)
+    - *.sh ex) aaa.sh sbavav.sh zzzzz.sh ...
+    - project? ex) project1 project2 ...
   - 정규표현식 공부좀..
 
 # Editors(vim)
